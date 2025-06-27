@@ -1,0 +1,10 @@
+{
+  "type": "aquaticplusfood:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "aquaticplusfood:entity/aquaticplusfood/mutantcucumber"
+    }
+  ],
+  "item": "aquaticplusfood:cucumber"
+}
